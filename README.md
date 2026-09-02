@@ -1,1 +1,0 @@
-# sql-product-analytics
